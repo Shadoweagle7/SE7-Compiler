@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\matth\\source\\repos\\se7c\\se7c\\se7-compiler\\se7 compiler\\se7\\virtual_machine.ixx",
+        "ProvidedModule": "virtual_machine",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
