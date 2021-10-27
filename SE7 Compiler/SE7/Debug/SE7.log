@@ -1,6 +1,0 @@
-﻿  gc.cpp
-  SE7.cpp
-  Generating Code...
-C:\Users\matth\source\repos\SE7C\SE7C\SE7-Compiler\SE7 Compiler\SE7VM\gc.cpp(53): error C4716: 'SE7::gc::page_table::end': must return a value
-C:\Users\matth\source\repos\SE7C\SE7C\SE7-Compiler\SE7 Compiler\SE7VM\gc.cpp(89): error C4716: 'SE7::mark_and_sweep_gc::allocate': must return a value
-C:\Users\matth\source\repos\SE7C\SE7C\SE7-Compiler\SE7 Compiler\SE7VM\gc.cpp(57): error C4716: 'SE7::gc::page_table::end': must return a value

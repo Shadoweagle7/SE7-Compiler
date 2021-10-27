@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Other
+*.suo
+*.db
+*.ipch
+*.ilk
+*.pdb
+*.command
+*.recipe
+*.tlog
+*.lastbuildstate
+*unsuccessfulbuild
+*.idb
+*.json
+*.ifc
+*.user
